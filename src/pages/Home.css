@@ -1,0 +1,21 @@
+
+.home {
+    position: absolute;
+    width: 100%;
+    height: 100%;    
+    background: #E7ACE9;
+}
+
+.landingPad {
+    position: relative;
+    margin: 20px;
+    height: 948px;
+    background-color: #B5EAFB;
+}
+
+h1 {
+    padding: 20px;
+    font-style: normal;
+    font-weight: bold;    
+    color: #000000;
+}

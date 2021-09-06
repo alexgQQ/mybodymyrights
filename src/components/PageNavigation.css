@@ -1,0 +1,37 @@
+.pageNavigation {
+    padding: 50px;
+    display: block;
+    float: right;
+}
+
+.pageLink {
+    display: inline block;
+    position: relative;
+    float: left;
+    text-decoration: none;
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: center;
+    background-color: #B5EAFB;
+    color: #FFFFFF;
+    padding: 10px;
+    font-family: Source Sans Pro;
+}
+
+.pageLink:hover {
+    text-decoration: none;
+    color: #22B14C;
+    background-color: #E7ACE9;
+}
+
+.pageLink:visited {
+    text-decoration: none;
+}
+
+.pageLink:link {
+    text-decoration: none;
+}
+
+.pageLink:active {
+    text-decoration: none;
+}
